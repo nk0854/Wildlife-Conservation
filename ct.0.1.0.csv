@@ -1,0 +1,5 @@
+file,error,image_width,image_height,x,y,width,height,category,confidence
+Wildlife Conservation\test\fixtures\human_images\cameratrap_20181201_02.jpg,,1200,799,571,0,359,676,Human,0.12002601
+Wildlife Conservation\test\fixtures\human_images\IMG_0254.JPG,,,,,,,,Empty,
+Wildlife Conservation\test\fixtures\images\IMG_0040.JPG,,,,,,,,Empty,
+Wildlife Conservation\test\fixtures\images\IMG_0101.JPG,,1024,569,473,245,414,307,Animal,0.15799338

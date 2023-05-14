@@ -1,0 +1,64 @@
+{
+  "images": [
+    {
+      "file": "Wildlife Conservation\\test\\fixtures\\human_images\\cameratrap_20181201_02.jpg",
+      "image_width": 1200,
+      "image_height": 799,
+      "detections": [
+        {
+          "x": 0.47632828,
+          "y": 0.00047507285,
+          "width": 0.29946843,
+          "height": 0.84680015,
+          "category": 2,
+          "confidence": 0.12002601
+        }
+      ]
+    },
+    {
+      "file": "Wildlife Conservation\\test\\fixtures\\human_images\\IMG_0254.JPG",
+      "image_width": 4608,
+      "image_height": 2560,
+      "detections": []
+    },
+    {
+      "file": "Wildlife Conservation\\test\\fixtures\\images\\IMG_0040.JPG",
+      "image_width": 1280,
+      "image_height": 711,
+      "detections": []
+    },
+    {
+      "file": "Wildlife Conservation\\test\\fixtures\\images\\IMG_0101.JPG",
+      "image_width": 1024,
+      "image_height": 569,
+      "detections": [
+        {
+          "x": 0.4627367,
+          "y": 0.43209228,
+          "width": 0.4046716,
+          "height": 0.5408286,
+          "category": 1,
+          "confidence": 0.15799338
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Empty",
+      "id": 0
+    },
+    {
+      "name": "Animal",
+      "id": 1
+    },
+    {
+      "name": "Human",
+      "id": 2
+    },
+    {
+      "name": "Vehicle",
+      "id": 3
+    }
+  ]
+}
